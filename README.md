@@ -42,10 +42,10 @@ If you find this code useful, please consider citinng this repository:
 ```
 @misc{OpenSourceCode1,
   author = {Hatamizadeh, Ali},
-  title = {Model-agnostic class activation map generator},
+  title = {Model-agnostic Class Activation Map Generator},
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/github/open-source-survey}}
+  howpublished = {\url{https://github.com/ahatamiz/Model_Agnostic_CAM_Generator}}
 }
 ```
