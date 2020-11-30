@@ -1,6 +1,6 @@
 # Model-agnostic Class Activation Map Generator
 
-This repository contains a model-agnostic module, impemented in Pytorch, for visualization of Class Activation Maps (CAMs) and similar techniques. 
+This repository contains a model-agnostic module for generating Class Activation Maps (CAMs) in Pytorch. 
 
 Our implemented CAM module can be used with any pretrained out-of-the-box network. The demo provided below serves as a working example. 
 
