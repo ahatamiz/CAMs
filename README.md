@@ -2,7 +2,7 @@
 
 This repository contains a model-agnostic module for generating Class Activation Maps (CAMs) in Pytorch. 
 
-Our implemented CAM module can be used with any pretrained networks. The demo provided below serves as a working example. 
+Our implemented CAM module can be used with any pretrained networks, given the name of the target layer before global average pooling. The demo provided below serves as a working example. 
 
 
 # Demo
