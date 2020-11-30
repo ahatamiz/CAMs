@@ -34,3 +34,18 @@ I have implemented the module in Pytorch (>1.6.0). You can install the requirmen
 ```
 pip install -r requirments.txt
 ```
+
+# Refrence
+
+If you find this code useful, please consider citinng this repository:  
+
+```
+@misc{OpenSourceCode1,
+  author = {Hatamizadeh, Ali},
+  title = {Model-agnostic class activation map generator},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/github/open-source-survey}}
+}
+```
