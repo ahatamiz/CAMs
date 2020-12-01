@@ -46,6 +46,6 @@ If you find this code useful, please consider citinng this repository:
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/ahatamiz/Model_Agnostic_CAM_Generator}}
+  howpublished = {\url{https://github.com/ahatamiz/CAMs}}
 }
 ```
